@@ -14,5 +14,11 @@
 }
 
 .body{
-    width:20px
-    height:20px
+    display: flex;
+    flex-direction: column;
+}
+
+.gym{
+    width:
+    height:
+}
