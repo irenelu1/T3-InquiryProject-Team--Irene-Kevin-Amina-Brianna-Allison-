@@ -13,12 +13,38 @@
     font-size: 20px;
 }
 
-.body{
-    display: flex;
+
+ .childbody{
+    display:flex;
     flex-direction: column;
-}
+    padding:90px;
+    justify-content: space-around;
+    background-color: beige;
+ }
 
 .gym{
-    width:
-    height:
+    width:25vw;
+    height:30vh;
+}
+
+.font{
+     font-family: allegro;
+     font-size: 30px;
+     font-weight:bold;
+}
+     
+
+ .childfont {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+
+
+.body {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 100px;
+    background-color: beige;
 }
